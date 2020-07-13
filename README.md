@@ -1,7 +1,7 @@
 # ImageSegmentationByKmeans
  Image Segmentation using K-Means algorithm in C#
  
-(This program is a university assignment.)
+(This project is a university assignment.)
  
  ## Images
 <table>
